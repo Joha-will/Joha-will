@@ -2,7 +2,7 @@
 
 I'm a Full stack software developer based in England, and I'm passionate about building web and mobile applications. 
 
-- I'm currently learning REACT🩵 and Linux 🐧.
+- I'm currently learning REACT 🩵 and Linux 🐧.
 - I'm currently working on an eCommerce and a new portfolio website.
 
  
