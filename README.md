@@ -6,7 +6,7 @@ I'm a Full stack software developer based in England, and I'm passionate about b
 - I'm currently working on an eCommerce and a new portfolio website.
 
  
-## 📦 Toolbox
+## 📦 Tech Stack
 
 **Teck Stack:** `Python` `JavaScript` `CSS` `HTML`
 
@@ -18,9 +18,14 @@ I'm a Full stack software developer based in England, and I'm passionate about b
 
 **UI/UX Design Tools:** `Figma` `Balsamiq` `Adobe Creative cloud` `Lucidchart` `dbdiagram`
 
-**Others:** `Linux` 
- 
-## ✨ Fun Facts 
+**Others:** `Linux`
+
+## 📊 GitHub Stats
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joha-will&layout=donut&bg_color=EEEEFF)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-stats.vercel.app/api?username=Joha-will&show=commits,issues,contribs,prs_merged,prs_merged_percentage&hide=stars&rank_icon=github&bg_color=EEEEFF) 
+
+## 🗒🖊 Fun Facts
+
 - I like Liverpool football.
 - As a youth, I wanted to become a professional footballer.
 - Dragon Ball Z is my favorite anime.
