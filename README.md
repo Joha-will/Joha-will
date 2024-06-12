@@ -10,11 +10,11 @@ I'm a Full stack software developer based in England, and I'm passionate about b
 
 **Teck Stack:** `Python` `JavaScript` `CSS` `HTML`
 
-**Frameworks and Libraries:** `React` `Django` `Flask` `Bootstrap` `Tailwind` `Materialize CSS` `jQuery`
+**Frameworks and Libraries:** `Django` `Flask` `Bootstrap` `Tailwind` `Materialize CSS` `jQuery` `React` `SASS/SCSS`
  
-**Version Control:** `Git` `GitPod` `AWS CodeCommit` 
+**Version Control:** `Git` `GitHub` `GitPod` `AWS CodeCommit` 
 
-**Cloud Platforms:** `AWS` `Heroku` `Cloudinary` `ElephantSQL`
+**Cloud Platforms:** `AWS` `Heroku` `Cloudinary` `ElephantSQL` `Render`
 
 **UI/UX Design Tools:** `Figma` `Balsamiq` `Adobe Creative cloud` `Lucidchart` `dbdiagram`
 
